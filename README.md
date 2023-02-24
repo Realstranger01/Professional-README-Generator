@@ -12,7 +12,7 @@ This professional README generator app uses Inquirer.js so that you can quickly 
 
 ### Usage
 
-Check out my video tutorial here [Professional-README-Generator](./starter/assets/Tutorial%20videos/Professional-README-Generator%20-%20Visual%20Studio%20Code%202023-02-21%2016-35-03.mp4) or follow the steps below.
+Check out my video tutorial here [Professional-README-Generator](./starter/assets/videos/Professional-README-Generator%20-%20Visual%20Studio%20Code%202023-02-21%2016-35-03.mp4) or follow the steps below.
 
 1. To run this program, using a terminal window, change directory to where the index.js file is stored.
 At the command prompt type node index.js:
